@@ -1,0 +1,1662 @@
+﻿Log file open, 09/02/19 16:38:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RebelBaseLevel
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.509819
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=jpchewy01 -epicuserid=18b4b04137264cd6b845b32e7ee1d052 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.02-23.38.21:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:353][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.02-23.38.21:355][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.02-23.38.21:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.02-23.38.21:356][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-23.38.21:356][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.02-23.38.21:364][  0]LogHAL: Display: Platform has ~ 32 GB [34272374784 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.02-23.38.21:364][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.02-23.38.21:364][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.02-23.38.21:364][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.02-23.38.21:365][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.02-23.38.21:365][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Config/Windows/Engine.ini]
+[2019.09.02-23.38.21:365][  0]LogInit: Computer: DESKTOP-9D55P6T
+[2019.09.02-23.38.21:365][  0]LogInit: User: jpche
+[2019.09.02-23.38.21:365][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.09.02-23.38.21:365][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.02-23.38.21:365][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.02-23.38.21:365][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.02-23.38.21:365][  0]LogMemory: Process Physical Memory: 98.31 MB used, 98.32 MB peak
+[2019.09.02-23.38.21:365][  0]LogMemory: Process Virtual Memory: 94.09 MB used, 94.09 MB peak
+[2019.09.02-23.38.21:365][  0]LogMemory: Physical Memory: 9233.23 MB used,  23451.45 MB free, 32684.68 MB total
+[2019.09.02-23.38.21:365][  0]LogMemory: Virtual Memory: 4694.76 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.09.02-23.38.21:376][  0]LogInit: Using OS detected language (en-US).
+[2019.09.02-23.38.21:376][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.02-23.38.21:377][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.02-23.38.21:479][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.02-23.38.21:500][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.02-23.38.21:500][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.02-23.38.21:603][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.02-23.38.21:603][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.02-23.38.21:657][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2019.09.02-23.38.21:657][  0]LogD3D11RHI:       11048/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.02-23.38.21:658][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.02-23.38.21:658][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.02-23.38.21:658][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.02-23.38.21:663][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.02-23.38.21:663][  0]LogD3D11RHI:     GPU DeviceId: 0x1e04 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.02-23.38.21:663][  0]LogWindows: EnumDisplayDevices:
+[2019.09.02-23.38.21:663][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2019.09.02-23.38.21:663][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.09.02-23.38.21:663][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.09.02-23.38.21:663][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.09.02-23.38.21:664][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.02-23.38.21:664][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2019.09.02-23.38.21:664][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.09.02-23.38.21:664][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.09.02-23.38.21:664][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2019.09.02-23.38.21:697][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.02-23.38.21:700][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-23.38.21:700][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-23.38.21:700][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-23.38.21:713][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.02-23.38.21:951][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.02-23.38.21:960][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.02-23.38.21:969][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.02-23.38.21:977][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.02-23.38.21:986][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.02-23.38.21:995][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.02-23.38.22:004][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.02-23.38.22:013][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.02-23.38.22:018][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.02-23.38.22:072][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.02-23.38.22:073][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.02-23.38.22:127][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.02-23.38.22:127][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.02-23.38.22:143][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.02-23.38.22:143][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.02-23.38.22:151][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.02-23.38.22:159][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.02-23.38.22:167][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.02-23.38.22:175][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.02-23.38.22:205][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.02-23.38.22:205][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.02-23.38.22:205][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.02-23.38.22:211][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.02-23.38.22:240][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Intermediate/Shaders/WorkingDirectory/13512/).
+[2019.09.02-23.38.22:240][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jpche/AppData/Local/Temp/UnrealShaderWorkingDir/D20A367F4E524C96373752903F3712A1/'.
+[2019.09.02-23.38.22:242][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.02-23.38.22:242][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.02-23.38.22:242][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.02-23.38.22:624][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.02-23.38.22:661][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/jpche/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.02-23.38.22:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jpche/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.02-23.38.22:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.02-23.38.22:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.02-23.38.22:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.02-23.38.22:661][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.02-23.38.22:670][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.02-23.38.22:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.02-23.38.22:670][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.02-23.38.22:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jpche/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.02-23.38.22:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.02-23.38.22:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.02-23.38.22:711][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.02-23.38.22:711][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.02-23.38.22:712][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.02-23.38.22:772][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2019.09.02-23.38.22:985][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-23.38.23:075][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.02-23.38.23:075][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.02-23.38.23:075][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.02-23.38.23:075][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.02-23.38.23:075][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.02-23.38.23:082][  0]LogNetVersion: RebelBaseLevel 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2836001085)
+[2019.09.02-23.38.23:334][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.022877 seconds
+[2019.09.02-23.38.23:339][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.02-23.38.23:339][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.02-23.38.23:339][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.02-23.38.23:872][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.02-23.38.23:892][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.02-23.38.23:979][  0]SourceControl: Source control is disabled
+[2019.09.02-23.38.23:979][  0]SourceControl: Source control is disabled
+[2019.09.02-23.38.23:979][  0]SourceControl: Source control is disabled
+[2019.09.02-23.38.23:980][  0]SourceControl: Source control is disabled
+[2019.09.02-23.38.23:985][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.02-23.38.23:986][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.02-23.38.24:026][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.02-23.38.24:077][  0]LogOcInput: OculusInput pre-init called
+[2019.09.02-23.38.24:522][  0]LogEngine: Initializing Engine...
+[2019.09.02-23.38.24:523][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.02-23.38.24:523][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.02-23.38.24:661][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.02-23.38.24:670][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.02-23.38.24:681][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.02-23.38.24:711][  0]LogInit: FAudioDevice initialized.
+[2019.09.02-23.38.24:712][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.02-23.38.24:781][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/jpche/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.02-23.38.24:788][  0]LogInit: Texture streaming: Enabled
+[2019.09.02-23.38.24:799][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.02-23.38.24:814][  0]LogInit: Transaction tracking system initialized
+[2019.09.02-23.38.24:829][  0]BlueprintLog: New page: Editor Load
+[2019.09.02-23.38.24:909][  0]LocalizationService: Localization service is disabled
+[2019.09.02-23.38.25:019][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.02-23.38.25:020][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.02-23.38.25:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/' took 0.01s
+[2019.09.02-23.38.25:128][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.02-23.38.25:128][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.02-23.38.25:243][  0]SourceControl: Source control is disabled
+[2019.09.02-23.38.25:243][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.02-23.38.25:243][  0]LightingResults: New page: Lighting Build
+[2019.09.02-23.38.25:245][  0]MapCheck: New page: Map Check
+[2019.09.02-23.38.25:245][  0]LightingResults: New page: Lighting Build
+[2019.09.02-23.38.25:271][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.09.02-23.38.25:322][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.02-23.38.25:325][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.02-23.38.25:353][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.09.02-23.38.25:353][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.02-23.38.25:353][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2019.09.02-23.38.25:353][  0]LogFileHelpers: Loading map 'Template_Default' took 0.110
+[2019.09.02-23.38.25:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-23.38.25:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-23.38.25:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-23.38.25:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-23.38.25:532][  0]LogCollectionManager: Loaded 0 collections in 0.001039 seconds
+[2019.09.02-23.38.25:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Collections/' took 0.01s
+[2019.09.02-23.38.25:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Developers/jpche/Collections/' took 0.01s
+[2019.09.02-23.38.25:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Collections/' took 0.01s
+[2019.09.02-23.38.25:582][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.02-23.38.25:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2733 classes and 661 folders.
+[2019.09.02-23.38.25:599][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.02-23.38.25:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-23.38.25:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.02-23.38.25:810][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.02-23.38.25:811][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.02-23.38.25:819][  0]LogSlate: Took 0.003714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.02-23.38.25:881][  0]LogRenderer: Reallocating scene render targets to support 1064x628 Format 10 NumSamples 1 (Frame:1).
+[2019.09.02-23.38.25:957][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-23.38.25:981][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.09.02-23.38.26:008][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.02-23.38.26:009][  0]LogLoad: (Engine Initialization) Total time: 6.24 seconds
+[2019.09.02-23.38.26:009][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.02-23.38.26:032][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.02-23.38.26:195][  7]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.02-23.38.28:092][227]LogAssetRegistry: Asset discovery search completed in 5.3419 seconds
+[2019.09.02-23.38.28:093][227]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.02-23.38.28:093][227]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
+[2019.09.02-23.38.28:711][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.02-23.38.29:866][432]Cmd: DELETE
+[2019.09.02-23.38.29:866][432]Cmd: ACTOR DELETE
+[2019.09.02-23.38.29:871][432]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.02-23.38.29:896][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.09.02-23.38.29:896][432]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.09.02-23.38.30:659][524]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.09.02-23.38.31:068][571]Cmd: DELETE
+[2019.09.02-23.38.31:068][571]Cmd: ACTOR DELETE
+[2019.09.02-23.38.31:069][571]LogEditorActor: Deleted Actor: PlayerStart
+[2019.09.02-23.38.31:096][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.38.31:096][571]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.09.02-23.38.32:339][720]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.09.02-23.38.34:047][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.02-23.38.55:116][325]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-23.39.07:601][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.39.08:172][629]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-23.39.11:895][ 74]AssetReimport: New page: Outstanding source content changes 9:39:11 AM
+[2019.09.02-23.39.11:919][ 74]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Rebel Temple.fbx)
+[2019.09.02-23.39.11:968][ 74]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Rebel Temple.fbx
+[2019.09.02-23.39.12:155][ 74]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.02-23.39.20:518][ 74]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.02-23.39.20:640][ 74]LogLinker: Can't find file '/Game/Import/VEGETATION'
+[2019.09.02-23.39.20:640][ 74]LogLinker: Can't find file '/Game/Import/VEGETATION'
+[2019.09.02-23.39.23:623][ 74]LogStaticMesh: Building static mesh Rebel_Temple_PLANTS...
+[2019.09.02-23.39.24:795][ 74]LogStaticMesh: Built static mesh [1.17s] /Game/Import/Rebel_Temple_PLANTS.Rebel_Temple_PLANTS
+[2019.09.02-23.39.25:841][ 74]LogLinker: Can't find file '/Game/Import/Ground'
+[2019.09.02-23.39.25:842][ 74]LogLinker: Can't find file '/Game/Import/Ground'
+[2019.09.02-23.39.26:330][ 74]LogStaticMesh: Building static mesh Rebel_Temple_GROUND...
+[2019.09.02-23.39.26:381][ 74]LogStaticMesh: Built static mesh [0.05s] /Game/Import/Rebel_Temple_GROUND.Rebel_Temple_GROUND
+[2019.09.02-23.39.26:420][ 74]LogLinker: Can't find file '/Game/Import/hdr'
+[2019.09.02-23.39.26:420][ 74]LogLinker: Can't find file '/Game/Import/hdr'
+[2019.09.02-23.39.29:214][ 74]LogMaterial: 	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+[2019.09.02-23.39.29:220][ 74]LogStaticMesh: Building static mesh Rebel_Temple_WATER...
+[2019.09.02-23.39.29:221][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Rebel_Temple_WATER.Rebel_Temple_WATER
+[2019.09.02-23.39.29:225][ 74]LogLinker: Can't find file '/Game/Import/Rock'
+[2019.09.02-23.39.29:226][ 74]LogLinker: Can't find file '/Game/Import/Rock'
+[2019.09.02-23.39.29:489][ 74]LogStaticMesh: Building static mesh Rebel_Temple_ROCKS...
+[2019.09.02-23.39.29:653][ 74]LogStaticMesh: Built static mesh [0.16s] /Game/Import/Rebel_Temple_ROCKS.Rebel_Temple_ROCKS
+[2019.09.02-23.39.29:696][ 74]LogLinker: Can't find file '/Game/Import/Temple'
+[2019.09.02-23.39.29:696][ 74]LogLinker: Can't find file '/Game/Import/Temple'
+[2019.09.02-23.39.34:757][ 74]LogStaticMesh: Building static mesh Rebel_Temple_TEMPLE...
+[2019.09.02-23.39.35:844][ 74]LogStaticMesh: Built static mesh [1.09s] /Game/Import/Rebel_Temple_TEMPLE.Rebel_Temple_TEMPLE
+[2019.09.02-23.39.37:584][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Rebel_Temple" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Rebel_Temple.uasset" SILENT=true
+[2019.09.02-23.39.37:590][ 75]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rebel_TempleF6C1AC70405130B3FC2490BBA1E9D0A2.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Rebel_Temple.uasset'
+[2019.09.02-23.39.40:599][414]AssetReimport: Importing new asset /Game/Import/Rebel_Temple.
+[2019.09.02-23.39.46:373][107]LogSlate: Window 'Message Log' being destroyed
+[2019.09.02-23.39.46:376][107]LogSlate: Window 'Message Log' being destroyed
+[2019.09.02-23.39.56:172][280]LogActorFactory: Actor Factory created Rebel_Temple_GROUND
+[2019.09.02-23.39.58:440][551]LogActorFactory: Actor Factory created Rebel_Temple_GROUND
+[2019.09.02-23.39.59:516][680]LogActorFactory: Actor Factory created Rebel_Temple_GROUND
+[2019.09.02-23.40.03:761][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.40.04:073][223]LogActorFactory: Actor Factory created Rebel_Temple_WATER
+[2019.09.02-23.40.09:847][915]LogActorFactory: Actor Factory created Rebel_Temple_WATER
+[2019.09.02-23.40.18:890][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.40.20:341][169]LogMaterial: Display: Missing cached shader map for material Rock_Mat, compiling. 
+[2019.09.02-23.40.25:649][801]Cmd: TRANSACTION UNDO
+[2019.09.02-23.40.25:649][801]LogEditorTransaction: Undo Create Actors
+[2019.09.02-23.40.26:021][845]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.451 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.02-23.40.27:665][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.40.30:273][354]LogActorFactory: Actor Factory created Rebel_Temple_ROCKS
+[2019.09.02-23.40.35:787][ 15]LogActorFactory: Actor Factory created Rebel_Temple_ROCKS
+[2019.09.02-23.40.36:719][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.40.36:887][145]LogActorFactory: Actor Factory created Rebel_Temple_TEMPLE
+[2019.09.02-23.40.42:041][763]LogActorFactory: Actor Factory created Rebel_Temple_TEMPLE
+[2019.09.02-23.40.44:797][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.40.45:012][114]LogActorFactory: Actor Factory created Rebel_Temple_PLANTS
+[2019.09.02-23.40.52:599][ 23]LogActorFactory: Actor Factory created Rebel_Temple_PLANTS
+[2019.09.02-23.40.54:320][229]LogActorFactory: Actor Factory created Rebel_Temple_PLANTS
+[2019.09.02-23.41.13:186][490]Cmd: DELETE
+[2019.09.02-23.41.13:186][490]Cmd: ACTOR DELETE
+[2019.09.02-23.41.13:187][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.02-23.41.13:210][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.02-23.41.13:210][490]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.09.02-23.41.29:964][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_WATER)
+[2019.09.02-23.41.30:588][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_WATER)
+[2019.09.02-23.41.38:859][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_WATER)
+[2019.09.02-23.41.40:285][723]Cmd: DELETE
+[2019.09.02-23.41.40:286][723]Cmd: ACTOR DELETE
+[2019.09.02-23.41.40:286][723]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.02-23.41.40:311][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.41.40:312][723]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.09.02-23.44.32:845][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.44.34:375][548]AssetReimport: New page: Outstanding source content changes 9:44:34 AM
+[2019.09.02-23.44.34:377][548]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing.fbx)
+[2019.09.02-23.44.34:383][548]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing.fbx
+[2019.09.02-23.44.34:395][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.02-23.44.35:977][548]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.02-23.44.36:538][548]LogStaticMesh: Building static mesh X-Wing...
+[2019.09.02-23.44.37:055][548]LogStaticMesh: Built static mesh [0.52s] /Game/Import/X-Wing.X-Wing
+[2019.09.02-23.44.37:168][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/X-Wing" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing.uasset" SILENT=true
+[2019.09.02-23.44.37:193][549]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/X-WingE753A1B246D7AFF23179878A1F7F2842.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing.uasset'
+[2019.09.02-23.44.40:203][897]AssetReimport: Importing new asset /Game/Import/X-Wing.
+[2019.09.02-23.44.44:381][398]LogSlate: Window 'Message Log' being destroyed
+[2019.09.02-23.44.44:384][398]LogSlate: Window 'Message Log' being destroyed
+[2019.09.02-23.44.45:658][551]LogActorFactory: Actor Factory created X-Wing
+[2019.09.02-23.44.47:112][723]LogActorFactory: Actor Factory created X-Wing
+[2019.09.02-23.45.17:720][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-23.45.32:079][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.45.33:464][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.02-23.45.35:719][938]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.02-23.45.35:722][938]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Import/X-Wing.X-Wing
+[2019.09.02-23.45.35:725][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-23.45.36:072][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.09.02-23.45.36:095][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.09.02-23.45.36:118][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.45.40:210][422]Cmd: DELETE
+[2019.09.02-23.45.40:210][422]Cmd: ACTOR DELETE
+[2019.09.02-23.45.40:211][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.02-23.45.40:234][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.45.40:235][422]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.09.02-23.45.48:876][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.46.10:660][532]LogMetaData: Removing '/Game/Import/Temple/Rebel_Temple_GROUND.Rebel_Temple_GROUND' ref from Metadata '/Game/Import/Rebel_Temple_GROUND.PackageMetaData'
+[2019.09.02-23.46.10:663][532]LogMetaData: Removing '/Game/Import/Temple/Rebel_Temple_PLANTS.Rebel_Temple_PLANTS' ref from Metadata '/Game/Import/Rebel_Temple_PLANTS.PackageMetaData'
+[2019.09.02-23.46.10:666][532]LogMetaData: Removing '/Game/Import/Temple/Rebel_Temple_ROCKS.Rebel_Temple_ROCKS' ref from Metadata '/Game/Import/Rebel_Temple_ROCKS.PackageMetaData'
+[2019.09.02-23.46.10:668][532]LogMetaData: Removing '/Game/Import/Temple/Rebel_Temple_TEMPLE.Rebel_Temple_TEMPLE' ref from Metadata '/Game/Import/Rebel_Temple_TEMPLE.PackageMetaData'
+[2019.09.02-23.46.10:671][532]LogMetaData: Removing '/Game/Import/Temple/Rebel_Temple_WATER.Rebel_Temple_WATER' ref from Metadata '/Game/Import/Rebel_Temple_WATER.PackageMetaData'
+[2019.09.02-23.46.10:698][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/Ground" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Ground.uasset" SILENT=true
+[2019.09.02-23.46.10:836][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Ground104902AB4CA2F5D3301A31AFF6848FEF.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Ground.uasset'
+[2019.09.02-23.46.10:847][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/hdr" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/hdr.uasset" SILENT=true
+[2019.09.02-23.46.11:009][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/hdr9DE4F8514D7D709EF2606ABCF53AAB7D.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/hdr.uasset'
+[2019.09.02-23.46.11:021][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/phong1" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong1.uasset" SILENT=true
+[2019.09.02-23.46.11:034][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong16E81B7344CC5553AB937B5BF92CE25AD.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong1.uasset'
+[2019.09.02-23.46.11:045][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/phong2" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong2.uasset" SILENT=true
+[2019.09.02-23.46.11:059][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong201A0637941A5BC4946A8D0BA21C33A01.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong2.uasset'
+[2019.09.02-23.46.11:071][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/phong3" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong3.uasset" SILENT=true
+[2019.09.02-23.46.11:083][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong3CCAF806D470253BC6022DA8F6A73E483.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong3.uasset'
+[2019.09.02-23.46.11:095][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/phong4" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong4.uasset" SILENT=true
+[2019.09.02-23.46.11:107][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong4472E93054FC371A88DE04091079C4D33.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong4.uasset'
+[2019.09.02-23.46.11:118][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/phong5" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong5.uasset" SILENT=true
+[2019.09.02-23.46.11:129][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong53A17F82D4CBDB863DA1B6587EA60065D.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/phong5.uasset'
+[2019.09.02-23.46.11:160][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rebel_Temple_GROUND2E1DB30442A8DFC2F079789EBECC4176.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rebel_Temple_GROUND.uasset'
+[2019.09.02-23.46.11:290][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rebel_Temple_PLANTS02696C0549EC1874E191BC96AA3FF391.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rebel_Temple_PLANTS.uasset'
+[2019.09.02-23.46.11:325][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rebel_Temple_ROCKS3A250D6D4084971E1CB498BA798E6636.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rebel_Temple_ROCKS.uasset'
+[2019.09.02-23.46.11:430][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rebel_Temple_TEMPLE4D0E51D34B49A398474B2D8946108F44.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rebel_Temple_TEMPLE.uasset'
+[2019.09.02-23.46.11:453][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rebel_Temple_WATER5F4CA21147417FAF0EF48096F7CD7CF5.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rebel_Temple_WATER.uasset'
+[2019.09.02-23.46.11:461][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/Rock" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rock.uasset" SILENT=true
+[2019.09.02-23.46.11:582][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RockDCFD161F40761E58D16A17891C6B2F26.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rock.uasset'
+[2019.09.02-23.46.11:606][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Rock_Mat7E67841B4F729C76A8F97C92E36B4DF7.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Rock_Mat.uasset'
+[2019.09.02-23.46.11:614][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Temple/Temple" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Temple.uasset" SILENT=true
+[2019.09.02-23.46.13:167][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Temple84D3CB9844CEDBC8DE5F32880068314B.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/Temple.uasset'
+[2019.09.02-23.46.13:298][532]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/VEGETATION4BEF7F014C3213E4EDB47F827A1F8F5A.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Temple/VEGETATION.uasset'
+[2019.09.02-23.46.13:741][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.09.02-23.46.13:764][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2019.09.02-23.46.13:787][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.46.13:811][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.46.13:832][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.46.13:854][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.46.13:876][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.13:901][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.46.13:922][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.13:946][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.02-23.46.13:969][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2019.09.02-23.46.13:990][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2019.09.02-23.46.14:013][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.14:037][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.14:058][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.14:079][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.14:102][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.09.02-23.46.14:123][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.46.59:743][391]AssetReimport: New page: Outstanding source content changes 9:46:59 AM
+[2019.09.02-23.48.54:759][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2019.09.02-23.48.54:780][ 22]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto196C5C2FB441CC2B6A2E8A799C18312DC.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.09.02-23.48.54:783][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.048
+[2019.09.02-23.48.54:783][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2019.09.02-23.48.58:432][447]AssetReimport: New page: Outstanding source content changes 9:48:58 AM
+[2019.09.02-23.48.58:434][447]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/X-Wing.fbx)
+[2019.09.02-23.48.58:440][447]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/X-Wing.fbx
+[2019.09.02-23.48.58:452][447]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.02-23.49.01:208][447]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.02-23.49.01:223][447]LogLinker: Can't find file '/Game/Import/Import/polySurface149__AlbedoM__2'
+[2019.09.02-23.49.01:223][447]LogLinker: Can't find file '/Game/Import/Import/polySurface149__AlbedoM__2'
+[2019.09.02-23.49.02:434][447]LogStaticMesh: Building static mesh X-Wing...
+[2019.09.02-23.49.03:062][447]LogStaticMesh: Built static mesh [0.63s] /Game/Import/Import/X-Wing.X-Wing
+[2019.09.02-23.49.03:200][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Import/X-Wing" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/X-Wing.uasset" SILENT=true
+[2019.09.02-23.49.03:225][448]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/X-Wing921203CF4936AF7EFF37C6B873CA01CC.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/X-Wing.uasset'
+[2019.09.02-23.49.06:234][807]AssetReimport: Importing new asset /Game/Import/Import/X-Wing.
+[2019.09.02-23.49.08:541][ 84]LogSlate: Window 'Message Log' being destroyed
+[2019.09.02-23.49.08:544][ 84]LogSlate: Window 'Message Log' being destroyed
+[2019.09.02-23.49.13:910][727]LogActorFactory: Actor Factory created X-Wing
+[2019.09.02-23.49.15:970][972]LogActorFactory: Actor Factory created X-Wing
+[2019.09.02-23.49.23:523][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.49.36:579][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.50.05:567][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.50.12:187][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.57.42:189][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-23.57.55:141][358]LogMetaData: Removing '/Game/Import/X-Wing/X-Wing.X-Wing' ref from Metadata '/Game/Import/Import/X-Wing.PackageMetaData'
+[2019.09.02-23.57.55:601][358]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/polySurface149__AlbedoM__2776242784AF141A74EF234B69B08DCA8.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing/polySurface149__AlbedoM__2.uasset'
+[2019.09.02-23.57.55:612][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/X-Wing/phong1" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing/phong1.uasset" SILENT=true
+[2019.09.02-23.57.55:625][358]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong1A3C7165445C73D9A3E698C8CBD33897A.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing/phong1.uasset'
+[2019.09.02-23.57.55:636][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/X-Wing/X-Wing" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing/X-Wing.uasset" SILENT=true
+[2019.09.02-23.57.55:660][358]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/X-WingDC595D7049E11B4B2C46A784A8EE1E77.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/X-Wing/X-Wing.uasset'
+[2019.09.02-23.57.55:780][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.09.02-23.57.55:808][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2019.09.02-23.57.55:833][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2019.09.02-23.57.55:859][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.09.02-23.57.55:880][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.58.59:745][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.02-23.58.59:807][989]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto21A018AFA4D78ECE270F6A1BC33219BB1.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2019.09.02-23.58.59:808][989]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.086
+[2019.09.02-23.58.59:808][989]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2019.09.03-00.00.07:391][337]AssetReimport: New page: Outstanding source content changes 10:00:07 AM
+[2019.09.03-00.00.07:392][337]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Chopper.fbx)
+[2019.09.03-00.00.07:397][337]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Chopper.fbx
+[2019.09.03-00.00.07:403][337]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.03-00.00.08:973][337]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.03-00.00.08:987][337]LogLinker: Can't find file '/Game/Import/Import/Handle1Tex'
+[2019.09.03-00.00.08:987][337]LogLinker: Can't find file '/Game/Import/Import/Handle1Tex'
+[2019.09.03-00.00.09:039][337]LogStaticMesh: Building static mesh Chopper...
+[2019.09.03-00.00.09:088][337]LogStaticMesh: Built static mesh [0.05s] /Game/Import/Import/Chopper.Chopper
+[2019.09.03-00.00.09:149][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Import/Chopper" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Chopper.uasset" SILENT=true
+[2019.09.03-00.00.09:165][338]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/ChopperC3FD1CC9454E9D7E989FA99D8F5E3ECE.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Chopper.uasset'
+[2019.09.03-00.00.12:171][696]AssetReimport: Importing new asset /Game/Import/Import/Chopper.
+[2019.09.03-00.00.15:692][119]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-00.00.15:696][119]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-00.00.26:177][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.00.26:413][402]LogActorFactory: Actor Factory created Chopper
+[2019.09.03-00.00.27:930][583]LogActorFactory: Actor Factory created Chopper
+[2019.09.03-00.00.32:193][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.00.43:097][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.01.14:825][176]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.03-00.01.16:154][333]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.03-00.09.02:047][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.03-00.09.02:112][909]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto3AFBDCBAA4FCCB4695C9EC8950D14D3DE.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2019.09.03-00.09.02:114][909]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.091
+[2019.09.03-00.09.02:114][909]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.091
+[2019.09.03-00.09.02:116][909]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/phong1] ([1] browsable assets)...
+[2019.09.03-00.09.02:129][909]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Import/Import/phong1.phong1]
+[2019.09.03-00.09.02:130][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/phong1]
+[2019.09.03-00.09.02:142][909]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong1_Auto30C997EAF453AAF8638745DBFC8ADDCD9.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/phong1_Auto3.uasset'
+[2019.09.03-00.09.02:142][909]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Handle1Tex] ([1] browsable assets)...
+[2019.09.03-00.09.02:148][909]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Import/Import/Handle1Tex.Handle1Tex]
+[2019.09.03-00.09.02:148][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Handle1Tex]
+[2019.09.03-00.09.02:158][909]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Handle1Tex_Auto3511096A445FBE86A7E6FCEA63C388A1A.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Handle1Tex_Auto3.uasset'
+[2019.09.03-00.09.02:158][909]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.09.03-00.09.25:095][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.24.35:839][940]LogMetaData: Removing '/Game/Import/Chopper/Chopper.Chopper' ref from Metadata '/Game/Import/Import/Chopper.PackageMetaData'
+[2019.09.03-00.24.35:873][940]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Handle1Tex1D84978D4B40F8FA458D1C970CE84077.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Chopper/Handle1Tex.uasset'
+[2019.09.03-00.24.35:887][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Import/Chopper/phong1" FILE="../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Chopper/phong1.uasset" SILENT=true
+[2019.09.03-00.24.35:899][940]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/phong1D34EE7EB4F57A01C89119BAEAC3B7433.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Chopper/phong1.uasset'
+[2019.09.03-00.24.35:928][940]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/ChopperFD0D4E9D4B1361CC01BD05AC7C0C6632.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Chopper/Chopper.uasset'
+[2019.09.03-00.24.36:060][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.03-00.24.36:084][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.09.03-00.24.36:107][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.09.03-00.24.36:135][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.09.03-00.24.36:158][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.03-00.24.40:624][471]AssetReimport: New page: Outstanding source content changes 10:24:40 AM
+[2019.09.03-00.24.40:626][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Scaffold.fbx)
+[2019.09.03-00.24.40:631][471]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Scaffold.fbx
+[2019.09.03-00.24.40:650][471]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.03-00.24.41:898][471]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.03-00.24.41:926][471]LogStaticMesh: Building static mesh Scaffold_Link01...
+[2019.09.03-00.24.41:927][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link01.Scaffold_Link01
+[2019.09.03-00.24.41:932][471]LogStaticMesh: Building static mesh Scaffold_Link02...
+[2019.09.03-00.24.41:933][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link02.Scaffold_Link02
+[2019.09.03-00.24.41:941][471]LogStaticMesh: Building static mesh Scaffold_Link03...
+[2019.09.03-00.24.41:942][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link03.Scaffold_Link03
+[2019.09.03-00.24.41:947][471]LogStaticMesh: Building static mesh Scaffold_Link04...
+[2019.09.03-00.24.41:948][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link04.Scaffold_Link04
+[2019.09.03-00.24.41:954][471]LogStaticMesh: Building static mesh Scaffold_Link05...
+[2019.09.03-00.24.41:955][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link05.Scaffold_Link05
+[2019.09.03-00.24.41:964][471]LogStaticMesh: Building static mesh Scaffold_Link06...
+[2019.09.03-00.24.41:965][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link06.Scaffold_Link06
+[2019.09.03-00.24.41:970][471]LogStaticMesh: Building static mesh Scaffold_Link07...
+[2019.09.03-00.24.41:971][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link07.Scaffold_Link07
+[2019.09.03-00.24.41:976][471]LogStaticMesh: Building static mesh Scaffold_Link08...
+[2019.09.03-00.24.41:977][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link08.Scaffold_Link08
+[2019.09.03-00.24.41:984][471]LogStaticMesh: Building static mesh Scaffold_Link09...
+[2019.09.03-00.24.41:985][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link09.Scaffold_Link09
+[2019.09.03-00.24.41:990][471]LogStaticMesh: Building static mesh Scaffold_Link10...
+[2019.09.03-00.24.41:991][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link10.Scaffold_Link10
+[2019.09.03-00.24.41:996][471]LogStaticMesh: Building static mesh Scaffold_Link11...
+[2019.09.03-00.24.41:997][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link11.Scaffold_Link11
+[2019.09.03-00.24.42:002][471]LogStaticMesh: Building static mesh Scaffold_Link12...
+[2019.09.03-00.24.42:003][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link12.Scaffold_Link12
+[2019.09.03-00.24.42:008][471]LogStaticMesh: Building static mesh Scaffold_Link13...
+[2019.09.03-00.24.42:009][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link13.Scaffold_Link13
+[2019.09.03-00.24.42:014][471]LogStaticMesh: Building static mesh Scaffold_Link14...
+[2019.09.03-00.24.42:015][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link14.Scaffold_Link14
+[2019.09.03-00.24.42:020][471]LogStaticMesh: Building static mesh Scaffold_Link15...
+[2019.09.03-00.24.42:021][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link15.Scaffold_Link15
+[2019.09.03-00.24.42:026][471]LogStaticMesh: Building static mesh Scaffold_Link16...
+[2019.09.03-00.24.42:027][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link16.Scaffold_Link16
+[2019.09.03-00.24.42:033][471]LogStaticMesh: Building static mesh Scaffold_Link17...
+[2019.09.03-00.24.42:034][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link17.Scaffold_Link17
+[2019.09.03-00.24.42:039][471]LogStaticMesh: Building static mesh Scaffold_Link18...
+[2019.09.03-00.24.42:040][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link18.Scaffold_Link18
+[2019.09.03-00.24.42:046][471]LogStaticMesh: Building static mesh Scaffold_Link19...
+[2019.09.03-00.24.42:047][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link19.Scaffold_Link19
+[2019.09.03-00.24.42:054][471]LogStaticMesh: Building static mesh Scaffold_Link20...
+[2019.09.03-00.24.42:055][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link20.Scaffold_Link20
+[2019.09.03-00.24.42:061][471]LogStaticMesh: Building static mesh Scaffold_Link21...
+[2019.09.03-00.24.42:062][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link21.Scaffold_Link21
+[2019.09.03-00.24.42:068][471]LogStaticMesh: Building static mesh Scaffold_Link22...
+[2019.09.03-00.24.42:069][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link22.Scaffold_Link22
+[2019.09.03-00.24.42:074][471]LogStaticMesh: Building static mesh Scaffold_Link23...
+[2019.09.03-00.24.42:075][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link23.Scaffold_Link23
+[2019.09.03-00.24.42:080][471]LogStaticMesh: Building static mesh Scaffold_Link24...
+[2019.09.03-00.24.42:081][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link24.Scaffold_Link24
+[2019.09.03-00.24.42:086][471]LogStaticMesh: Building static mesh Scaffold_Link25...
+[2019.09.03-00.24.42:087][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link25.Scaffold_Link25
+[2019.09.03-00.24.42:093][471]LogStaticMesh: Building static mesh Scaffold_Link26...
+[2019.09.03-00.24.42:094][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link26.Scaffold_Link26
+[2019.09.03-00.24.42:101][471]LogStaticMesh: Building static mesh Scaffold_Link27...
+[2019.09.03-00.24.42:102][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link27.Scaffold_Link27
+[2019.09.03-00.24.42:107][471]LogStaticMesh: Building static mesh Scaffold_Link28...
+[2019.09.03-00.24.42:108][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link28.Scaffold_Link28
+[2019.09.03-00.24.42:114][471]LogStaticMesh: Building static mesh Scaffold_Link29...
+[2019.09.03-00.24.42:115][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link29.Scaffold_Link29
+[2019.09.03-00.24.42:121][471]LogStaticMesh: Building static mesh Scaffold_Link30...
+[2019.09.03-00.24.42:122][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link30.Scaffold_Link30
+[2019.09.03-00.24.42:132][471]LogStaticMesh: Building static mesh Scaffold_Link31...
+[2019.09.03-00.24.42:133][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link31.Scaffold_Link31
+[2019.09.03-00.24.42:140][471]LogStaticMesh: Building static mesh Scaffold_Link32...
+[2019.09.03-00.24.42:141][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link32.Scaffold_Link32
+[2019.09.03-00.24.42:147][471]LogStaticMesh: Building static mesh Scaffold_Link33...
+[2019.09.03-00.24.42:148][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link33.Scaffold_Link33
+[2019.09.03-00.24.42:155][471]LogStaticMesh: Building static mesh Scaffold_Link34...
+[2019.09.03-00.24.42:156][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link34.Scaffold_Link34
+[2019.09.03-00.24.42:162][471]LogStaticMesh: Building static mesh Scaffold_Link35...
+[2019.09.03-00.24.42:163][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link35.Scaffold_Link35
+[2019.09.03-00.24.42:171][471]LogStaticMesh: Building static mesh Scaffold_Link36...
+[2019.09.03-00.24.42:172][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link36.Scaffold_Link36
+[2019.09.03-00.24.42:178][471]LogStaticMesh: Building static mesh Scaffold_Link37...
+[2019.09.03-00.24.42:180][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link37.Scaffold_Link37
+[2019.09.03-00.24.42:186][471]LogStaticMesh: Building static mesh Scaffold_Link38...
+[2019.09.03-00.24.42:187][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link38.Scaffold_Link38
+[2019.09.03-00.24.42:193][471]LogStaticMesh: Building static mesh Scaffold_Link39...
+[2019.09.03-00.24.42:194][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link39.Scaffold_Link39
+[2019.09.03-00.24.42:200][471]LogStaticMesh: Building static mesh Scaffold_Link40...
+[2019.09.03-00.24.42:201][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link40.Scaffold_Link40
+[2019.09.03-00.24.42:208][471]LogStaticMesh: Building static mesh Scaffold_Link41...
+[2019.09.03-00.24.42:208][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link41.Scaffold_Link41
+[2019.09.03-00.24.42:214][471]LogStaticMesh: Building static mesh Scaffold_Link42...
+[2019.09.03-00.24.42:215][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link42.Scaffold_Link42
+[2019.09.03-00.24.42:222][471]LogStaticMesh: Building static mesh Scaffold_Link43...
+[2019.09.03-00.24.42:223][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link43.Scaffold_Link43
+[2019.09.03-00.24.42:229][471]LogStaticMesh: Building static mesh Scaffold_Link44...
+[2019.09.03-00.24.42:229][471]LogStaticMesh: Built static mesh [0.00s] /Game/Import/Import/Scaffold_Link44.Scaffold_Link44
+[2019.09.03-00.24.42:324][472]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold21737A9545BFCF720E46C5ACFC1235A5.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Scaffold.uasset'
+[2019.09.03-00.24.45:338][817]AssetReimport: Importing new asset /Game/Import/Import/Scaffold.
+[2019.09.03-00.24.48:227][164]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-00.24.48:230][164]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-00.25.19:035][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.09.03-00.25.19:099][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto4BC57432146391BF38FA606B499391A86.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2019.09.03-00.25.19:102][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.090
+[2019.09.03-00.25.19:102][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.090
+[2019.09.03-00.25.19:103][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link01] ([1] browsable assets)...
+[2019.09.03-00.25.19:113][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link01.Scaffold_Link01]
+[2019.09.03-00.25.19:113][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link01]
+[2019.09.03-00.25.19:125][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link01_Auto499109B1149C7B6A6A2CC2B9E98E104E5.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link01_Auto4.uasset'
+[2019.09.03-00.25.19:126][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Material__1] ([1] browsable assets)...
+[2019.09.03-00.25.19:136][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Import/Import/Material__1.Material__1]
+[2019.09.03-00.25.19:136][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Material__1]
+[2019.09.03-00.25.19:148][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Material__1_Auto406B0C3234671FF1DC89D57AD798709BB.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Material__1_Auto4.uasset'
+[2019.09.03-00.25.19:148][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link02] ([1] browsable assets)...
+[2019.09.03-00.25.19:157][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link02.Scaffold_Link02]
+[2019.09.03-00.25.19:157][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link02]
+[2019.09.03-00.25.19:169][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link02_Auto46525F3264A0AD5BD9687B6BA33135BB7.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link02_Auto4.uasset'
+[2019.09.03-00.25.19:170][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link03] ([1] browsable assets)...
+[2019.09.03-00.25.19:179][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link03.Scaffold_Link03]
+[2019.09.03-00.25.19:179][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link03]
+[2019.09.03-00.25.19:191][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link03_Auto40B478454466D3BFB1D4404A55D63178F.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link03_Auto4.uasset'
+[2019.09.03-00.25.19:192][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link04] ([1] browsable assets)...
+[2019.09.03-00.25.19:201][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link04.Scaffold_Link04]
+[2019.09.03-00.25.19:201][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link04]
+[2019.09.03-00.25.19:213][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link04_Auto4E72A849841424889A644E49126BCDCA6.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link04_Auto4.uasset'
+[2019.09.03-00.25.19:213][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link05] ([1] browsable assets)...
+[2019.09.03-00.25.19:223][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link05.Scaffold_Link05]
+[2019.09.03-00.25.19:223][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link05]
+[2019.09.03-00.25.19:235][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link05_Auto43B16C30F4EC199F79E9565ABFA211735.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link05_Auto4.uasset'
+[2019.09.03-00.25.19:235][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link06] ([1] browsable assets)...
+[2019.09.03-00.25.19:244][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link06.Scaffold_Link06]
+[2019.09.03-00.25.19:244][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link06]
+[2019.09.03-00.25.19:256][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link06_Auto46FFBA2684E3E9A7FE90C4CBFE091F451.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link06_Auto4.uasset'
+[2019.09.03-00.25.19:256][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link07] ([1] browsable assets)...
+[2019.09.03-00.25.19:266][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link07.Scaffold_Link07]
+[2019.09.03-00.25.19:266][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link07]
+[2019.09.03-00.25.19:277][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link07_Auto494EC2F844D15000666D0B7B21080AC55.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link07_Auto4.uasset'
+[2019.09.03-00.25.19:278][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link08] ([1] browsable assets)...
+[2019.09.03-00.25.19:287][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link08.Scaffold_Link08]
+[2019.09.03-00.25.19:287][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link08]
+[2019.09.03-00.25.19:299][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link08_Auto464F06B284AF37957C57D48901BC994C1.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link08_Auto4.uasset'
+[2019.09.03-00.25.19:300][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link09] ([1] browsable assets)...
+[2019.09.03-00.25.19:309][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link09.Scaffold_Link09]
+[2019.09.03-00.25.19:309][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link09]
+[2019.09.03-00.25.19:322][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link09_Auto4FB32656047F13AB75673638BDE46C170.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link09_Auto4.uasset'
+[2019.09.03-00.25.19:322][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link10] ([1] browsable assets)...
+[2019.09.03-00.25.19:333][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link10.Scaffold_Link10]
+[2019.09.03-00.25.19:333][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link10]
+[2019.09.03-00.25.19:346][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link10_Auto40ACFA1A444024A9F1D276F908FC16C03.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link10_Auto4.uasset'
+[2019.09.03-00.25.19:346][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link11] ([1] browsable assets)...
+[2019.09.03-00.25.19:356][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link11.Scaffold_Link11]
+[2019.09.03-00.25.19:356][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link11]
+[2019.09.03-00.25.19:371][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link11_Auto49B56C8CB4678CC6E15A0A9BEC19EB46A.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link11_Auto4.uasset'
+[2019.09.03-00.25.19:372][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link12] ([1] browsable assets)...
+[2019.09.03-00.25.19:382][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link12.Scaffold_Link12]
+[2019.09.03-00.25.19:382][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link12]
+[2019.09.03-00.25.19:394][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link12_Auto4A902F7C046A08278772C19BAB56E70EB.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link12_Auto4.uasset'
+[2019.09.03-00.25.19:395][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link13] ([1] browsable assets)...
+[2019.09.03-00.25.19:404][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link13.Scaffold_Link13]
+[2019.09.03-00.25.19:404][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link13]
+[2019.09.03-00.25.19:416][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link13_Auto4AF5F92684E6BB40E0685B485E225FB50.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link13_Auto4.uasset'
+[2019.09.03-00.25.19:417][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link14] ([1] browsable assets)...
+[2019.09.03-00.25.19:427][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link14.Scaffold_Link14]
+[2019.09.03-00.25.19:427][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link14]
+[2019.09.03-00.25.19:439][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link14_Auto4A8D3B01B421127D5415150BAF837D50D.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link14_Auto4.uasset'
+[2019.09.03-00.25.19:440][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link15] ([1] browsable assets)...
+[2019.09.03-00.25.19:449][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link15.Scaffold_Link15]
+[2019.09.03-00.25.19:449][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link15]
+[2019.09.03-00.25.19:461][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link15_Auto48BB0A6E1478D82BCFF0717B7E0CB0463.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link15_Auto4.uasset'
+[2019.09.03-00.25.19:462][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link16] ([1] browsable assets)...
+[2019.09.03-00.25.19:471][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link16.Scaffold_Link16]
+[2019.09.03-00.25.19:471][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link16]
+[2019.09.03-00.25.19:483][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link16_Auto4D436EE4040EB90F9F5CCCE9E9286412F.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link16_Auto4.uasset'
+[2019.09.03-00.25.19:483][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link17] ([1] browsable assets)...
+[2019.09.03-00.25.19:496][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link17.Scaffold_Link17]
+[2019.09.03-00.25.19:496][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link17]
+[2019.09.03-00.25.19:507][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link17_Auto4C09822314E43ECAD33183CA70D0B05F9.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link17_Auto4.uasset'
+[2019.09.03-00.25.19:507][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link18] ([1] browsable assets)...
+[2019.09.03-00.25.19:520][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link18.Scaffold_Link18]
+[2019.09.03-00.25.19:520][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link18]
+[2019.09.03-00.25.19:532][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link18_Auto4396F6F13410D714FB0C0F386B49D266E.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link18_Auto4.uasset'
+[2019.09.03-00.25.19:533][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link19] ([1] browsable assets)...
+[2019.09.03-00.25.19:542][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link19.Scaffold_Link19]
+[2019.09.03-00.25.19:542][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link19]
+[2019.09.03-00.25.19:554][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link19_Auto476F185AD480E9388CF597292C9480DB1.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link19_Auto4.uasset'
+[2019.09.03-00.25.19:555][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link20] ([1] browsable assets)...
+[2019.09.03-00.25.19:565][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link20.Scaffold_Link20]
+[2019.09.03-00.25.19:565][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link20]
+[2019.09.03-00.25.19:578][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link20_Auto4EE6E375D47D0707EB0A45C97AC768BFA.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link20_Auto4.uasset'
+[2019.09.03-00.25.19:579][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link21] ([1] browsable assets)...
+[2019.09.03-00.25.19:590][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link21.Scaffold_Link21]
+[2019.09.03-00.25.19:590][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link21]
+[2019.09.03-00.25.19:602][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link21_Auto4C3CC470C464CB637B47D2E9364CCA7E8.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link21_Auto4.uasset'
+[2019.09.03-00.25.19:602][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link22] ([1] browsable assets)...
+[2019.09.03-00.25.19:612][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link22.Scaffold_Link22]
+[2019.09.03-00.25.19:612][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link22]
+[2019.09.03-00.25.19:624][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link22_Auto4B3965670443FCC1CF6CADF8379FBB616.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link22_Auto4.uasset'
+[2019.09.03-00.25.19:624][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link23] ([1] browsable assets)...
+[2019.09.03-00.25.19:634][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link23.Scaffold_Link23]
+[2019.09.03-00.25.19:634][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link23]
+[2019.09.03-00.25.19:648][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link23_Auto42B07D1364B629839DE8B1FB686A0E963.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link23_Auto4.uasset'
+[2019.09.03-00.25.19:649][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link24] ([1] browsable assets)...
+[2019.09.03-00.25.19:658][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link24.Scaffold_Link24]
+[2019.09.03-00.25.19:658][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link24]
+[2019.09.03-00.25.19:670][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link24_Auto41912F2BF454FAB8F7A1A3DAA37D7032B.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link24_Auto4.uasset'
+[2019.09.03-00.25.19:671][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link25] ([1] browsable assets)...
+[2019.09.03-00.25.19:682][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link25.Scaffold_Link25]
+[2019.09.03-00.25.19:682][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link25]
+[2019.09.03-00.25.19:694][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link25_Auto417CA0A8D4B5310FA9A58BC995FB0AD03.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link25_Auto4.uasset'
+[2019.09.03-00.25.19:696][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link26] ([1] browsable assets)...
+[2019.09.03-00.25.19:706][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link26.Scaffold_Link26]
+[2019.09.03-00.25.19:706][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link26]
+[2019.09.03-00.25.19:722][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link26_Auto4EB48B39547D923AFCEE23496D2CDCB09.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link26_Auto4.uasset'
+[2019.09.03-00.25.19:723][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link27] ([1] browsable assets)...
+[2019.09.03-00.25.19:742][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link27.Scaffold_Link27]
+[2019.09.03-00.25.19:742][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link27]
+[2019.09.03-00.25.19:755][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link27_Auto409D0732B42BE9E2F3F270BBB3710E5EF.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link27_Auto4.uasset'
+[2019.09.03-00.25.19:756][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link28] ([1] browsable assets)...
+[2019.09.03-00.25.19:783][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link28.Scaffold_Link28]
+[2019.09.03-00.25.19:784][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link28]
+[2019.09.03-00.25.19:796][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link28_Auto4DB5E556349097A3C8AE2D5B3417BDC7E.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link28_Auto4.uasset'
+[2019.09.03-00.25.19:796][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link29] ([1] browsable assets)...
+[2019.09.03-00.25.19:863][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link29.Scaffold_Link29]
+[2019.09.03-00.25.19:863][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link29]
+[2019.09.03-00.25.19:876][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link29_Auto4CC2D7B0E4CBBBC91ADF3ECBDD3460455.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link29_Auto4.uasset'
+[2019.09.03-00.25.19:876][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link30] ([1] browsable assets)...
+[2019.09.03-00.25.19:921][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link30.Scaffold_Link30]
+[2019.09.03-00.25.19:921][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link30]
+[2019.09.03-00.25.19:934][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link30_Auto46E3D252942D3EA5C69F031B6368A93BC.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link30_Auto4.uasset'
+[2019.09.03-00.25.19:935][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link31] ([1] browsable assets)...
+[2019.09.03-00.25.19:969][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link31.Scaffold_Link31]
+[2019.09.03-00.25.19:969][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link31]
+[2019.09.03-00.25.19:981][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link31_Auto427D49CEC4066A5A6E784498421D34177.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link31_Auto4.uasset'
+[2019.09.03-00.25.19:982][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link32] ([1] browsable assets)...
+[2019.09.03-00.25.19:992][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link32.Scaffold_Link32]
+[2019.09.03-00.25.19:992][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link32]
+[2019.09.03-00.25.20:004][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link32_Auto4103CC25C43C5FD6A277425AED7C45438.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link32_Auto4.uasset'
+[2019.09.03-00.25.20:005][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link33] ([1] browsable assets)...
+[2019.09.03-00.25.20:015][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link33.Scaffold_Link33]
+[2019.09.03-00.25.20:015][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link33]
+[2019.09.03-00.25.20:028][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link33_Auto432BDDEF6461FA4CDBC9E09B59F120F00.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link33_Auto4.uasset'
+[2019.09.03-00.25.20:029][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link34] ([1] browsable assets)...
+[2019.09.03-00.25.20:038][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link34.Scaffold_Link34]
+[2019.09.03-00.25.20:038][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link34]
+[2019.09.03-00.25.20:057][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link34_Auto45ADEF12340C6A5E12086ADB6427D6793.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link34_Auto4.uasset'
+[2019.09.03-00.25.20:057][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link35] ([1] browsable assets)...
+[2019.09.03-00.25.20:067][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link35.Scaffold_Link35]
+[2019.09.03-00.25.20:067][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link35]
+[2019.09.03-00.25.20:079][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link35_Auto46B398074469755673DE2DF9CF9190A76.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link35_Auto4.uasset'
+[2019.09.03-00.25.20:080][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link36] ([1] browsable assets)...
+[2019.09.03-00.25.20:089][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link36.Scaffold_Link36]
+[2019.09.03-00.25.20:089][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link36]
+[2019.09.03-00.25.20:102][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link36_Auto46E963B2E417644782D2C2CBE950C2B13.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link36_Auto4.uasset'
+[2019.09.03-00.25.20:103][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link37] ([1] browsable assets)...
+[2019.09.03-00.25.20:112][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link37.Scaffold_Link37]
+[2019.09.03-00.25.20:112][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link37]
+[2019.09.03-00.25.20:127][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link37_Auto4CFD20EAD49D5BC6A05D2DCAE3564BD5D.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link37_Auto4.uasset'
+[2019.09.03-00.25.20:128][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link38] ([1] browsable assets)...
+[2019.09.03-00.25.20:137][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link38.Scaffold_Link38]
+[2019.09.03-00.25.20:137][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link38]
+[2019.09.03-00.25.20:149][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link38_Auto4540060E6489C31E3A0BF2792AD79847B.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link38_Auto4.uasset'
+[2019.09.03-00.25.20:150][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link39] ([1] browsable assets)...
+[2019.09.03-00.25.20:159][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link39.Scaffold_Link39]
+[2019.09.03-00.25.20:159][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link39]
+[2019.09.03-00.25.20:172][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link39_Auto4CC09C9D3485E6B5BF44A93B71ACADE10.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link39_Auto4.uasset'
+[2019.09.03-00.25.20:172][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link40] ([1] browsable assets)...
+[2019.09.03-00.25.20:183][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link40.Scaffold_Link40]
+[2019.09.03-00.25.20:183][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link40]
+[2019.09.03-00.25.20:194][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link40_Auto473045F02420D21EA944388A3EEA7FDDA.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link40_Auto4.uasset'
+[2019.09.03-00.25.20:195][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link41] ([1] browsable assets)...
+[2019.09.03-00.25.20:204][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link41.Scaffold_Link41]
+[2019.09.03-00.25.20:204][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link41]
+[2019.09.03-00.25.20:218][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link41_Auto4464D17534BD5710C7906C693144E6118.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link41_Auto4.uasset'
+[2019.09.03-00.25.20:219][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link42] ([1] browsable assets)...
+[2019.09.03-00.25.20:228][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link42.Scaffold_Link42]
+[2019.09.03-00.25.20:228][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link42]
+[2019.09.03-00.25.20:240][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link42_Auto478F0A4A942EAD75D2D1CC2B0D274562C.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link42_Auto4.uasset'
+[2019.09.03-00.25.20:241][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link43] ([1] browsable assets)...
+[2019.09.03-00.25.20:250][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link43.Scaffold_Link43]
+[2019.09.03-00.25.20:250][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link43]
+[2019.09.03-00.25.20:262][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link43_Auto4FDE0285F49D99D31FECF6E9C17014BBC.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link43_Auto4.uasset'
+[2019.09.03-00.25.20:263][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Import/Import/Scaffold_Link44] ([1] browsable assets)...
+[2019.09.03-00.25.20:272][ 17]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Import/Import/Scaffold_Link44.Scaffold_Link44]
+[2019.09.03-00.25.20:272][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Import/Import/Scaffold_Link44]
+[2019.09.03-00.25.20:286][ 17]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold_Link44_Auto4E5BDBB6F49357CAC1BECD49AFCE5F88B.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/Import/Import/Scaffold_Link44_Auto4.uasset'
+[2019.09.03-00.25.20:287][ 17]LogFileHelpers: Auto-saving content packages took 1.184
+[2019.09.03-00.25.25:711][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.09.03-00.25.36:324][542]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.03-00.25.36:453][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.03-00.26.16:548][598]AssetReimport: New page: Outstanding source content changes 10:26:16 AM
+[2019.09.03-00.26.26:021][729]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.550 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.03-00.27.46:499][369]AssetReimport: New page: Outstanding source content changes 10:27:46 AM
+[2019.09.03-00.29.03:918][805]AssetReimport: New page: Outstanding source content changes 10:29:03 AM
+[2019.09.03-00.29.03:919][805]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Scaffold.fbx)
+[2019.09.03-00.29.03:924][805]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Scaffold.fbx
+[2019.09.03-00.29.03:944][805]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.03-00.29.07:950][805]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.03-00.29.08:006][805]LogStaticMesh: Building static mesh Scaffold...
+[2019.09.03-00.29.08:099][805]LogStaticMesh: Built static mesh [0.09s] /Game/Import/Import/Scaffold.Scaffold
+[2019.09.03-00.29.08:217][806]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/ScaffoldD989409647C76A38E7A7B5B16A63D1EB.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/Scaffold.uasset'
+[2019.09.03-00.29.11:226][165]AssetReimport: Importing new asset /Game/Import/Import/Scaffold.
+[2019.09.03-00.29.11:531][202]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-00.29.11:536][202]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-00.29.20:804][305]LogMetaData: Removing '/Game/Import/Scaffold/Scaffold.Scaffold' ref from Metadata '/Game/Import/Import/Scaffold.PackageMetaData'
+[2019.09.03-00.29.20:834][305]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Material__1C1CFDC46427AA38142770C9CDE1031E7.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Scaffold/Material__1.uasset'
+[2019.09.03-00.29.20:863][305]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Scaffold4FC9847C4468FA91454665945BC918CE.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Scaffold/Scaffold.uasset'
+[2019.09.03-00.29.20:965][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.03-00.29.20:989][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.09.03-00.29.21:018][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.03-00.29.21:040][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.09.03-00.29.23:406][586]LogActorFactory: Actor Factory created Scaffold
+[2019.09.03-00.29.25:401][824]LogActorFactory: Actor Factory created Scaffold
+[2019.09.03-00.29.35:215][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.29.41:379][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.29.57:475][643]Cmd: TRANSACTION UNDO
+[2019.09.03-00.29.57:476][643]LogEditorTransaction: Undo Move Actors
+[2019.09.03-00.29.58:472][762]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.03-00.30.04:758][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scaffold)
+[2019.09.03-00.34.21:803][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.35.24:933][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.09.03-00.35.24:998][394]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto54D75969A44AD4EF2C078838FAEC8D012.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2019.09.03-00.35.25:002][394]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.092
+[2019.09.03-00.35.25:002][394]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.092
+[2019.09.03-00.35.52:371][476]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.09.03-00.35.52:371][476]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Developers/jpche/Collections/' because it could not be accessed. Aborting watch request...
+[2019.09.03-00.35.52:371][476]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_SkyRing (AutoDXT, 256X256)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_Moon (AutoDXT, 512X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_F (AutoDXT, 2048X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_Lightning (AutoDXT, 1024X1024)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_noise_smooth (AutoDXT, 512X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_A (AutoDXT, 2048X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_B (AutoDXT, 2048X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_D (AutoDXT, 2048X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_E (AutoDXT, 2048X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_C (AutoDXT, 2048X512)
+[2019.09.03-00.36.37:452][853]LogTexture: Display: Building textures: T_GoodSky_clouds_sphere (AutoDXT, 2048X2048)
+[2019.09.03-00.36.37:452][853]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Base, compiling. 
+[2019.09.03-00.36.37:461][853]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Storm, compiling. 
+[2019.09.03-00.36.37:467][853]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Moon, compiling. 
+[2019.09.03-00.36.37:472][853]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.09.03-00.36.37:474][853]LogStaticMesh: Building static mesh SM_GoodSky_StarMesh...
+[2019.09.03-00.36.37:483][853]LogStaticMesh: Built static mesh [0.01s] /Game/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.SM_GoodSky_StarMesh
+[2019.09.03-00.36.37:485][853]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.09.03-00.36.37:488][853]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Stars, compiling. 
+[2019.09.03-00.36.37:503][853]LogMaterial: Display: Missing cached shader map for material M_GoodSky_SkyRing_, compiling. 
+[2019.09.03-00.36.37:513][853]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.09.03-00.36.37:513][853]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.09.03-00.36.37:532][853]LogStaticMesh: Building static mesh SM_GoodSky_Sphere...
+[2019.09.03-00.36.37:549][853]LogStaticMesh: Built static mesh [0.02s] /Game/GoodSky/Source/Mesh/SM_GoodSky_Sphere.SM_GoodSky_Sphere
+[2019.09.03-00.36.37:569][853]LogStaticMesh: Building static mesh SM_GoodSky_Hemisphere...
+[2019.09.03-00.36.37:581][853]LogStaticMesh: Built static mesh [0.01s] /Game/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.SM_GoodSky_Hemisphere
+[2019.09.03-00.36.37:590][853]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Emissive, compiling. 
+[2019.09.03-00.36.37:597][853]LogAIModule: Creating AISystem for world Level_GoodSky_Showcase
+[2019.09.03-00.37.15:690][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.37.32:565][914]LogSlate: Window 'Undo History' being destroyed
+[2019.09.03-00.37.32:568][914]LogSlate: Window 'Undo History' being destroyed
+[2019.09.03-00.37.37:869][547]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.03-00.37.40:439][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.03-00.37.41:174][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.03-00.37.41:907][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.03-00.37.42:894][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.37.46:020][509]LogSlate: Took 0.017226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.09.03-00.37.48:070][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.38.20:608][169]Cmd: DELETE
+[2019.09.03-00.38.20:608][169]Cmd: ACTOR DELETE
+[2019.09.03-00.38.20:621][169]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.09.03-00.38.20:660][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.09.03-00.38.20:660][169]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.09.03-00.38.50:968][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.00:835][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.04:464][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.16:671][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.21:139][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.29:687][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.36:825][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.43:367][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.47:335][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.49:975][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.54:390][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.56:977][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.39.58:501][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.40.02:041][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.40.13:645][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.40.18:787][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-00.40.23:898][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.40.25:392][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-00.45.25:522][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.09.03-00.45.25:598][827]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto6B88A5EE3415463695C44A5991CB45219.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2019.09.03-00.45.25:600][827]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.100
+[2019.09.03-00.45.25:600][827]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2019.09.03-01.06.34:296][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.06.34:377][229]AssetReimport: New page: Outstanding source content changes 11:06:34 AM
+[2019.09.03-01.06.34:379][229]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/TurboLaser.fbx)
+[2019.09.03-01.06.34:384][229]LogFbx: Loading FBX Scene from C:/Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/TurboLaser.fbx
+[2019.09.03-01.06.34:392][229]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.03-01.06.35:704][229]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.03-01.06.35:752][229]LogStaticMesh: Building static mesh TurboLaser...
+[2019.09.03-01.06.35:847][229]LogStaticMesh: Built static mesh [0.10s] /Game/Import/Import/TurboLaser.TurboLaser
+[2019.09.03-01.06.35:868][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.06.35:940][230]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/TurboLaser40CEB16043E2498F491770AFE563EABD.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/Import/TurboLaser.uasset'
+[2019.09.03-01.06.37:558][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.06.38:950][587]AssetReimport: Importing new asset /Game/Import/Import/TurboLaser.
+[2019.09.03-01.06.39:553][660]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-01.06.39:556][660]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-01.06.42:229][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.06.51:703][112]LogMetaData: Removing '/Game/Import/TurboLaser/TurboLaser.TurboLaser' ref from Metadata '/Game/Import/Import/TurboLaser.PackageMetaData'
+[2019.09.03-01.06.51:735][112]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/08_-_Default301B4F5245838AFF5082EF8FBB446D5A.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/TurboLaser/08_-_Default.uasset'
+[2019.09.03-01.06.51:765][112]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/TurboLaser3403F6194855DA96180804BA1978DF23.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/Import/TurboLaser/TurboLaser.uasset'
+[2019.09.03-01.06.51:870][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.03-01.06.51:893][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.09.03-01.06.51:920][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.09.03-01.06.51:941][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.09.03-01.06.57:714][801]LogActorFactory: Actor Factory created TurboLaser
+[2019.09.03-01.07.02:253][343]LogActorFactory: Actor Factory created TurboLaser
+[2019.09.03-01.07.14:690][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.07.17:985][221]LogAssetEditorManager: Opening Asset editor for Material /Game/Import/TurboLaser/08_-_Default.08_-_Default
+[2019.09.03-01.07.17:989][221]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2019.09.03-01.07.18:244][221]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2019.09.03-01.07.18:269][221]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.03-01.07.18:269][221]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.03-01.07.18:281][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.03-01.07.18:299][221]LogSlate: Took 0.004040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.03-01.07.18:397][222]LogSlate: Took 0.003968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.03-01.07.18:653][242]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.03-01.07.19:107][282]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.09.03-01.07.19:108][282]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.09.03-01.07.19:108][282]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.09.03-01.07.19:108][282]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.03-01.07.58:569][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.07.58:643][ 17]LogSlate: Window '08_-_Default' being destroyed
+[2019.09.03-01.07.58:646][ 17]LogSlate: Window '08_-_Default' being destroyed
+[2019.09.03-01.08.01:246][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.08.37:705][676]LogMaterial: Display: Missing cached shader map for material M_GoodSky_StormLightning_LightFunction, compiling. 
+[2019.09.03-01.10.24:801][489]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.10.25:140][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.10.27:402][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TurboLaser)
+[2019.09.03-01.10.43:437][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.10.44:017][781]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.10.51:334][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_GROUND)
+[2019.09.03-01.10.51:839][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_GROUND)
+[2019.09.03-01.11.00:451][740]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.11.25:175][699]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.11.26:021][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_TEMPLE)
+[2019.09.03-01.11.27:129][928]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.11.28:222][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.11.29:024][151]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.11.29:084][157]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2019.09.03-01.11.29:820][243]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2019.09.03-01.11.39:693][424]Cmd: TRANSACTION UNDO
+[2019.09.03-01.11.39:693][424]LogEditorTransaction: Undo Move Components
+[2019.09.03-01.11.47:921][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Rebel_Temple_GROUND)
+[2019.09.03-01.11.47:951][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.11.49:756][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_GROUND)
+[2019.09.03-01.11.50:362][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rebel_Temple_GROUND)
+[2019.09.03-01.11.53:678][ 86]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Rebel_Temple_GROUND)
+[2019.09.03-01.11.53:692][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.11.56:369][407]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.09.03-01.13.29:145][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.09.03-01.13.29:225][742]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Untitled_1_Auto7B131192D45F58EDE59ABA3A04C75C13C.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Temp/Untitled_1_Auto7.umap'
+[2019.09.03-01.13.29:228][742]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.124
+[2019.09.03-01.13.29:228][742]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2019.09.03-01.14.11:308][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.14.25:948][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.14.32:466][112]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.03-01.14.34:341][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.14.34:727][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.14.35:051][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.14.36:307][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.14.57:994][558]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.03-01.14.57:999][558]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.09.03-01.14.58:086][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.09.03-01.14.58:109][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2019.09.03-01.14.58:184][558]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevel5BE7BEB44658195C4DA552BE0E1715C3.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/RebelBaseLevel.umap'
+[2019.09.03-01.14.58:209][558]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevel_BuiltData5B6EC1374A6405C94AB5149FC1401E2E.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/RebelBaseLevel_BuiltData.uasset'
+[2019.09.03-01.14.58:216][558]LogFileHelpers: Saving map 'RebelBaseLevel' took 0.215
+[2019.09.03-01.15.02:812][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-01.15.02:958][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.09.03-01.15.03:035][103]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevelAF0FF0B34D7946AB3723D39D78BF4FD2.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/RebelBaseLevel.umap'
+[2019.09.03-01.15.03:059][103]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevel_BuiltDataF906CAE44384ED0F57E09B90676F610F.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/RebelBaseLevel_BuiltData.uasset'
+[2019.09.03-01.15.04:148][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-01.15.26:081][449]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.607 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.03-04.35.12:943][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.35.16:617][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.35.19:071][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.35.22:398][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.35.24:798][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.35.34:718][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.37.07:506][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-04.37.07:537][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.09.03-04.37.07:616][299]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevel_Auto8A5E672BF4E60EA2F5A00C0867D1C519C.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/Autosaves/Game/RebelBaseLevel_Auto8.umap'
+[2019.09.03-04.37.07:617][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RebelBaseLevel' took 0.104
+[2019.09.03-04.37.07:617][299]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.104
+[2019.09.03-05.22.37:203][650]LogHttp: Warning: 00000211B481F100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.09.03-05.22.37:203][650]LogHttp: Warning: 00000211B481F100: libcurl info message cache 0 (Connection 143 seems to be dead!)
+[2019.09.03-05.22.37:203][650]LogHttp: Warning: 00000211B481F100: libcurl info message cache 1 (Closing connection 143)
+[2019.09.03-05.22.37:203][650]LogHttp: Warning: 00000211B481F100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.03-05.22.37:203][650]LogHttp: Warning: 00000211B481F100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.09.03-05.22.37:204][650]LogHttp: Warning: 00000211B481F100: libcurl info message cache 4 (Closing connection 144)
+[2019.09.03-05.22.37:204][650]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B66FDBF-48F1-2598-228A-54B15801D1A9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c0120fa545bba9869fa175ba3f3c23be%7C18b4b04137264cd6b845b32e7ee1d052%7C0a6178c6-9401-4240-bedc-1ae970da3cba&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.03-05.27.37:776][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-05.27.38:578][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.03-05.27.38:655][672]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevel80F5CF824C5F95D7D82B2D8D2131B0BD.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/RebelBaseLevel.umap'
+[2019.09.03-05.27.38:686][672]LogSavePackage: Moving '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Saved/RebelBaseLevel_BuiltData6624D0534821937B8F4A37990B0DED1D.tmp' to '../../../../../../Users/jpche/Documents/CTIN-485/Rebel Base Project/Unreal/RebelBaseLevel/Content/RebelBaseLevel_BuiltData.uasset'
+[2019.09.03-05.27.43:923][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-05.27.44:032][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.09.03-05.27.44:064][309]LogSlate: Window 'RebelBaseLevel - Unreal Editor' being destroyed
+[2019.09.03-05.27.44:222][310]Cmd: QUIT_EDITOR
+[2019.09.03-05.27.44:239][310]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.03-05.27.44:250][310]LogExit: Preparing to exit.
+[2019.09.03-05.27.45:202][310]LogExit: Editor shut down
+[2019.09.03-05.27.45:202][310]LogExit: Transaction tracking system shut down
+[2019.09.03-05.27.45:508][310]LogExit: Object subsystem successfully closed.
+[2019.09.03-05.27.45:535][310]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.03-05.27.45:538][310]LogD3D11RHI: Shutdown
+[2019.09.03-05.27.45:538][310]LogD3D11RHI: CleanupD3DDevice
+[2019.09.03-05.27.45:538][310]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.03-05.27.45:538][310]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.03-05.27.45:538][310]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.03-05.27.45:538][310]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.03-05.27.45:538][310]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.03-05.27.45:538][310]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.03-05.27.45:614][310]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.03-05.27.45:629][310]LogModuleManager: Shutting down and abandoning module MeshBuilder (646)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module SceneOutliner (634)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.09.03-05.27.45:630][310]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.09.03-05.27.45:631][310]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.09.03-05.27.47:598][310]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.09.03-05.27.47:599][310]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.09.03-05.27.47:599][310]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.09.03-05.27.47:599][310]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.09.03-05.27.47:599][310]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.09.03-05.27.47:642][310]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.09.03-05.27.47:643][310]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.09.03-05.27.47:645][310]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.09.03-05.27.47:880][310]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.03-05.27.47:881][310]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.03-05.27.47:982][310]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.09.03-05.27.48:083][310]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.09.03-05.27.48:083][310]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.09.03-05.27.48:084][310]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.09.03-05.27.48:085][310]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.09.03-05.27.48:156][310]LogDerivedDataCache: Shutdown
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.09.03-05.27.48:156][310]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.09.03-05.27.48:157][310]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.09.03-05.27.48:158][310]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.09.03-05.27.48:158][310]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.09.03-05.27.48:166][310]LogHMD: Freeing OpenVRDLLHandle.
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.09.03-05.27.48:166][310]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.09.03-05.27.48:167][310]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.09.03-05.27.48:167][310]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.09.03-05.27.48:201][310]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.09.03-05.27.48:201][310]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.03-05.27.48:201][310]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B66FDBF-48F1-2598-228A-54B15801D1A9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c0120fa545bba9869fa175ba3f3c23be%7C18b4b04137264cd6b845b32e7ee1d052%7C0a6178c6-9401-4240-bedc-1ae970da3cba&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.03-05.27.48:226][310]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.09.03-05.27.48:227][310]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.09.03-05.27.48:228][310]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.09.03-05.27.48:234][310]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.09.03-05.27.48:235][310]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.09.03-05.27.48:245][310]LogExit: Exiting.
+[2019.09.03-05.27.48:259][310]Log file closed, 09/02/19 22:27:48
